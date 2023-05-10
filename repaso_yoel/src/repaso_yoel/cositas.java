@@ -6,6 +6,9 @@ public class cositas {
 		// TODO Auto-generated method stub
 
 		System.out.println(" hola ");
+		System.out.println("HOLA CO");
+		
+		
 	}
 
 }
